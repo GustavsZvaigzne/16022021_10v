@@ -1,5 +1,5 @@
 #fails repozitorijam
-print(5+6)
+print(9**2)
 #Tatjana Grencione
 
 #1)Andersone Linda Elva
@@ -27,4 +27,4 @@ print(5+6)
 #12)Voiteðonoks Aleksandrs
 
 #13)Zvaigzne Gustavs Henrijs
-print ((2+2)*4)
+print ((4**3**2)/2)
